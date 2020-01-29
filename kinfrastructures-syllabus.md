@@ -1,6 +1,8 @@
 # Knowledge Infrastructures
 ENGL 89500. Wednesdays 4:15PM-6:15PM. Room 3305. 2/4 credits
 
+\#kinfrastructures
+
 # Contact Info
 [Dr. Matthew K. Gold](http://mkgold.net) 
 
@@ -11,8 +13,6 @@ ENGL 89500. Wednesdays 4:15PM-6:15PM. Room 3305. 2/4 credits
 Office hours: **TBA**
 
 Room 5307.04
-
-Course Hashtag: kinfrastructures
 
 # Course Description
 Infrastructure is all around us, rarely remarked upon. Indeed, the latent state of infrastructure is part of what marks it as such; as Susan Leigh Starr has noted, infrastructure studies involves the examination of "boring things."
@@ -59,7 +59,7 @@ Choose one aspect of a knowledge infrastructure and perform a short (~500-1000 w
 ### Collective Intervention in GC/CUNY Knowledge Infrastructures (Final Project)
 Through class discussions, we will come to a consensus on an intervention that we will collectively make into the knowledge infrastructures at the GC or in CUNY.
 
-Students should complete a 500 word reflection on the collective intervention, due May 20.
+Students should complete a 500-word reflection on the collective intervention, to be posted on the course blog, due May 20.
 
 # Differential Credit Requirements:
 * Audit/2 credits: all assignments except Personal Narrative and Ethnography Project
@@ -176,6 +176,6 @@ Regular participation in our class discussions and online spaces is essential.
 ## 5/20 - Final Reflections Due
 
 # Credits
-In its structure (and, in the case of the blog post assignment, occasionally its language), this syllabus takes direct inspiration from Luke Waltzer's Spring 2020 course on [Critical Infrastructure Studies](https://criticaledtechsp20.commons.gc.cuny.edu/) at the CUNY Graduate Center. #citepedagogy
+In its structure (and, in the case of the blog post assignment, occasionally its language), this syllabus takes direct inspiration from Luke Waltzer's Spring 2020 course on [Critical Infrastructure Studies](https://criticaledtechsp20.commons.gc.cuny.edu/) at the CUNY Graduate Center. \#citepedagogy
 
 
