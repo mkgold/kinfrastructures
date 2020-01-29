@@ -2,11 +2,16 @@
 ENGL 89500. Wednesdays 4:15PM-6:15PM. Room 3305. 2/4 credits
 
 # Contact Info
-[Dr. Matthew K. Gold](http://mkgold.net)
+[Dr. Matthew K. Gold](http://mkgold.net) 
+
 [mgold@gc.cuny.edu](mailto:mgold@gc.cuny.edu)
+
 (212) 817-7256
+
 Office hours: **TBA**
+
 Room 5307.04
+
 #kinfrastructures
 
 # Course Description
@@ -18,7 +23,7 @@ This class will explore the emerging nexus of critical infrastructure studies an
 As a set of alternatives to the commercialized infrastructure of knowledge dissemination in the academy, the course will consider open access publication models, free software development, and university press publishing. Even as we explore such alternatives, we will critique them, considering the ways that such alternatives themselves depend upon commercial technical stacks, and considering whether these alternatives are equally available and accessible across the globe.
 
  
-Among the scholars we will study are: Susan Leigh Starr; Alan Liu; Kathleen Fitzpatrick; Christopher Kelty; Christopher Newfield; Stephen Brier and Michael Fabricant; Benjamin Bratton; Shannon Mattern; Nicole Starosielski; Trebor Scholz; Brian Greenspan; and Yarimar Bonilla and Max Hantel. Topics to be explored include: introductions to critical infrastructure studies and critical university studies; the environmental impact of the cloud; the free software movement; academic publishing models; constructing open platforms. Students in the class will explore publishing platforms collaboratively created by CUNY and other partners, including the CUNY Academic Commons and Manifold, as well as others such as Humanities Commons and Zotero. The goal of the class, in the end, is to ask students to consider how and where their own scholarly knowledge is distributed, and by whom and under what terms.
+Topics to be explored include: introductions to critical infrastructure studies and critical university studies; the environmental impact of the cloud; the free software movement; academic publishing models; constructing open platforms. Students in the class will explore publishing platforms collaboratively created by CUNY and other partners, including the CUNY Academic Commons and Manifold, as well as others such as Humanities Commons and Zotero. The goal of the class, in the end, is to ask students to consider how and where their own scholarly knowledge is distributed, and by whom and under what terms.
 
 # Learning Objectives
 
@@ -39,12 +44,12 @@ It is Graduate Center and CUNY policy to provide appropriate accommodations to s
 ## Weekly Reading and Discussion:
 Students should complete all weekly readings in advance of the class meeting and should take an active part in class discussions.
 
+## Assignments
 ## Blog Posts and Class Discussions
 Each student will write a response to the readings for one week of the course, to be posted by Tuesday morning the day before the class in which those readings will be discussed. These posts should offer a brief 1-2 paragraph response to the course texts and then should provide a set of 5-7 questions for group discussion. The post may also provide links to relevant related readings and resources. In class that day, that student will frame and initiate our discussion in class that week.
 
 Other assignments should be posted to the blog as suggested below. Generally, we should try to use our course blog as a way to share information with each other and anyone else following the course from afar. Students who prefer to post privately may use our agreed-upon password to protect their posts.
 
-## Assignments
 ### Personal Narrative
 Write a short (~500 word) blog post about some aspect of your personal knowledge infrastructure. You might think about how you keep track of citations, how you store/annotate academic articles, how you access academic texts, what systems you use to write. In your post, do some work to extend your knowledge of the infrastructure surrounding your topic/tool/platform and reflect a bit on your choices.
 
@@ -54,6 +59,7 @@ Choose one aspect of a knowledge infrastructure and perform a short (~500-1000 w
 ### Collective Intervention in GC/CUNY Knowledge Infrastructures (Final Project)
 Through class discussions, we will come to a consensus on an intervention that we will collectively make into the knowledge infrastructures at the GC or in CUNY.
 
+Students should complete a 500 word reflection on the collective intervention, due May 20.
 
 # Differential Credit Requirements:
 * Audit/2 credits: all assignments except Personal Narrative and Ethnography Project
@@ -65,13 +71,13 @@ Regular participation in our class discussions and online spaces is essential.
 * Blog posts (20%)
 * Personal Narrative (15%)
 * Ethnography Project (15%)
-* Final Project (25%)
+* Collective Intervention Project and Reflections (25%)
 
 # Reading Schedule 
 *items marked PDF will be uploaded to our course group*
 
 # POINTS OF DEPARTURE
-## Introductions
+## 1/29 - Introductions
 *What is "infrastructure"? What is knowledge? What systems do we use ourselves, and what systems do those systems depend on? What issues are most important to us to explore this semester, and how can we together design a course that provides a meaningful learning experience for all of us? Reading through the syllabus as a whole, what changes would you like to make in this syllabus?*
 * "[What is a Data Center?](https://www.youtube.com/watch?v=kfvbCggY_nI)" Anixter. *YouTube* 27 July 2015.
 * Levin, Boaz and Ryan Jeffery["All That is Solid Melts Into Air" (excerpt)](http://spheres-journal.org/all-that-is-solid-melts-into-data/). *Places Journal*. June 2016.
@@ -79,7 +85,7 @@ Regular participation in our class discussions and online spaces is essential.
 * Gold, Matthew K. “The Syllabus as Shared Negotiation” (DRAFT). *Syllabus Journal.* *Forthcoming*
 
 ## KNOWLEDGE AND INFRASTRUCTURE
-## Infrastructural Thinking
+## 2/5 - Infrastructural Thinking
 *How can we theorize and understand infrastructure? Let's examine some works of infrastructure studies and consider the emerging field of critical infrastructure studies and its relationship to digital humanities.*
 * Star, Susan Leigh. “The Ethnography of Infrastructure." *American Behavioral Scientist*, vol. 43.4, 1 November 1999. (PDF)
 * Bowker, Geoffrey C. and Susan Leigh Star. *Sorting Things Out: Classification and Its Consequences* (selections: "Some Tricks of the Trade in Analyzing Classification"; "Classification and Large-Scale Infrastructures"; "Categorical Work and Boundary Infrastructures: Enriching Theories of Classification"). Cambridge, Mass.: MIT Press, 1999. (PDF)
@@ -87,14 +93,14 @@ Regular participation in our class discussions and online spaces is essential.
 * Rueb, Emily S. and Eiko Ojala. ["New York 101: Why are the streets always under construction?”](http://www.nytimes.com/interactive/2016/08/18/nyregion/new-york-101-streets-repair-and-maintenance.html) *New York Times*. 18 August 2016. 
 * Liu, Alan. "[CI Studies Bibliography](https://cistudies.org/critical-infrastructures-bibliography/)." *Critical Infrastructure Studies.org*. N.d.
 
-## Networked Infrastructures
+## 2/19 - Networked Infrastructures
 *How might we consider the materiality of networks and cloud-based systems? To what extent is a network an infrastructure?*
 * Mattern, Shannon. “[Infrastructural Tourism](https://placesjournal.org/article/infrastructural-tourism/).” *Places Journal*. July 2013. 
 * Starosielski, Nicole. "Fixed flow: Undersea cables as media infrastructure." In *Signal Traffic: Critical Studies of Media Infrastructures.* Urbana, Ill.: University of Illinois Press, 2015. (PDF)
 * Bennett, Jane. *Vibrant Matter:  A Political Ecology of Things.* Durham: Duke University Press, 2009. (selections in PDF)
 * Hu, Tung-Hui. *A Prehistory of the Cloud*. Cambridge, MA: MIT Press, 2016. (selections in PDF)
 
-## Digital Humanities -- Ways of Thinking
+## 2/26 - Digital Humanities -- Ways of Thinking
 *How have digital humanities approached knowledge, and knowledge infrastructures? What questions and concerns do we need to keep in mind when exploring DH and data-related scholarship?*
 * Ramsay, Stephen, and Geoffrey Rockwell. "[Developing Things: Notes toward an Epistemology of Building in the Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/c733786e-5787-454e-8f12-e1b7a85cac72#ch05)." *Debates in the Digital Humanities*, edited by Matthew K. Gold, University of Minnesota Press, 2012.
 * Jackson, Stephen. "Rethinking Repair." *Media Technologies: Essays on Communication, Materiality, and Society*, edited by Tarleton Gillespie, Pablo J. Boczkowski, and Kirsten A. Foot, MIT Press Scholarship Online, September 2014. (PDF)
@@ -102,7 +108,7 @@ Regular participation in our class discussions and online spaces is essential.
 * Presner, Todd. Critical Theory and the Mangle of Digital Humanities,” in The Humanities and the Digital, eds. David Theo Goldberg and Patrik Svensson. Cambridge: MIT Press, 2014. (PDF)
 * Greenspan, Brian. "[The Scandal of Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4b6be68c-802c-41f4-a2a5-284187ec0a5c#ch09)." *Debates in the Digital Humanities 2019*, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: University of Minnesota Press, 2019.
 
-## Knowledge Systems, Data, and Infrastructures
+## 2/26 - Knowledge Systems, Data, and Infrastructures
 * [SPARC* 2019 Landscape Analysis: The Changing Academic Publishing Industry – Implications for Academic Institutions](https://sparcopen.org/our-work/landscape-analysis/). 
 * Borgman, Christine. *Scholarship in the Digital Age: Information, Infrastructure, and the Internet*. Cambridge, Mass.: MIT Press, 2007.
 * Bowker, Geoffrey C. "Sustainable Knowledge Infrastructures." *The Promise of Infrastructure*, ed. Nikhil Anand, Akhil Gupta, and Hannah Appel. Durham: Duke University Press, 2018. (PDF)
@@ -111,19 +117,19 @@ Regular participation in our class discussions and online spaces is essential.
 * Gil, Alex. ["Interview with Ernesto Oroza."](https://dhdebates.gc.cuny.edu/read/untitled/section/f2df3413-259e-46fe-9982-f1dba0c386fb) *Debates in the Digital Humanities 2016*, edited by Matthew K. Gold and Lauren F. Klein, University of Minnesota Press, 2016.
 
 ## THEORIES
-## Commoning
+## 3/4 - Commoning
 * Hess, Charlotte, and Elinor Ostrom. *Understanding Knowledge As a Commons: From Theory to Practice*. Cambridge, Mass: MIT Press, 2011. (Selections in PDF)
 * Harvey, David. "The Creation of the Urban Commons." *Rebel Cities*. New York: Verso, 2012. (PDF)
 * Kathleen Fitzpatrick, "Working in Public." In *Generous Thinking*. Baltimore: Johns Hopkins University Press, 2019. (PDF)
 * Sweeney, Miriam E. "The Intersectional Interface." In *The Intersectional Internet: Race, Sex, Class, and Culture Online*. Eds. Safiya Umoja Noble and Brendesha M. Tynes. New York: Peter Lang, 2016: 215-228. (PDF)
 
-## Troubling
+## 3/11 - Troubling
 * Barad, Karen. "Meeting the Universe Halfway." In *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning.* Durham: Duke University Press, 2007. (PDF)
 * Haraway, Donna. "Introduction" and "Sympoiesis." In *Staying with the Trouble*. Durham: Duke University Press, 2016. (PDF)
 * Ahmed, Sara. "Conclusion: Disorientation and Queer Objects." In *Queer Phenomenologies*. Durham: Duke University Press, 2006. (PDF)
 * Latour, Bruno. "Introduction: How to Resume the Task of Tracing Associations." In *Reassembling the Social: An Introduction to Actor-Network Theory*. New York: Oxford University Press, 2005. (PDF)
 
-## Opening
+## 3/18 - Opening
 * Kelty, Christopher M. Two Bits: The Cultural Significance of Free Software. Durham: Duke University Press, 2008. (Selections in PDF)
 * Groom, Jim. "[I Bleed CUNY Blood](https://bavatuesdays.com/i-bleed-cuny-blood/)." *Bava Tuesdays. 25 May 2009.
 * Hyde, Lewis. *Common As Air: Revolution, Art and Ownership*. London: Union Books, 2012. (Selections in PDF)
@@ -131,23 +137,23 @@ Regular participation in our class discussions and online spaces is essential.
 * Stallman, Richard. "[GNU Manifesto](https://www.gnu.org/gnu/manifesto.html).*
 
 ## SPACES AND PLATFORMS
-## The University
+## 3/25 - The University
 * Fabricant, Michael, and Stephen Brier. Austerity Blues: Fighting for the Soul of Public Higher Education. Baltimore: Johns Hopkins University Press, 2016. (Selections in PDF)
 * Harney, Stefano, and Fred Moten. The Undercommons: Fugitive Planning Et Black Study. Wivenhoe: Minor Compositions, 2013. (Selections in PDF)
 * Wellmon, Chad. Organizing Enlightenment: Information Overload and the Invention of the Modern Research University. , 2016. (Selections in PDF)
 * Lamont, Michéle. *How Professors Think: Inside the Curious World of Academic Judgement.* Cambridge, Mass.: Harvard University Press, 2009. (Sections in PDF)
 
-## The Library
+## 4/1 - The Library
 * Weinberger, David. "[Library as Platform](https://www.libraryjournal.com/?detailStory=by-david-weinberger)." *Library Journal*. 4 September 2012.
 * Mattern, Shannon. "[The Library as Infrastructure](https://placesjournal.org/article/library-as-infrastructure/?cn-reloaded=1)." *Places Journal*. June 2014.
 
-## The Book
+## 4/7 - The Book
 * Borsuk, Amaranth. *The Book*. Cambridge, MA: MIT Press, 2018. (PDF)
 * Howsam, Leslie. "The Study of Book History." In *The Cambridge Companion to the History of the Book*, Ed. Leslie Howsam. Cambridge, UK: Cambridge University Press, 2015: 1-16. (PDF)
 * Kirschenbaum, Matthew G. *Mechanisms: New Media and the Forensic Imagination*. Cambridge, MA: MIT Press, 2012. (Selections in PDF)
 * Kirschenbaum, Matthew G."[Books After the Death of the Book](http://www.publicbooks.org/books-after-the-death-of-the-book/)." *Public Books* 31 March 2017. 
 
-## Publishing Systems
+## 4/22 - Publishing Systems
 * Borgman, Christine. *Scholarship in the Digital Age: Information, Infrastructure, and the Internet*. Cambridge, Mass.: MIT Press, 2007. (Selections in PDF)
 * Siemens, Ray, Meagan Timney, Cara Leitch, Corina Koolen, and Alex Garnett, with the ETCL, INKE, and PKP Research Groups. "Toward Modeling the Social Edition: An Approach to Understanding the Electronic Scholarly Edition in the Context of New and Emerging Social Media," with Meagan Timney, Cara Leitch, Corina Koolen, and Alex Garnett, and with the ETCL, INKE, and PKP Research Groups. Literary and Linguistic Computing 27.4 (2012): 445-461. (PDF)
 * [Manifold](http://manifoldapp.org)
@@ -155,15 +161,19 @@ Regular participation in our class discussions and online spaces is essential.
 * [Humanities Commons](https://hcommons.org/)
 
 ## METHODS
-## Searching
+## 4/29 - Searching
 * Noble, Safiya U. Algorithms of Oppression: How Search Engines Reinforce Racism. New York: New York University Press, 2018. (Selections in PDF)
 * Seaver, Nick. "[Knowing Algorithms](https://digitalsts.net/wp-content/uploads/2019/11/26_digitalSTS_Knowing-Algorithms.pdf)." In *Digitalsts: A Field Guide for Science & Technology Studies*, Ed. Janet Vertesi and David Ribes. Princeton, NJ: Princeton University Press, 2019.
 * Seaver, Nick. "Captivating algorithms: Recommender systems as traps." *Journal of Material Culture*, 24(4) (2019), 421–436. (PDF)
 
-## Teaching
+## 5/6 - Teaching
 * Freire, Paulo. *Pedagogy of the Oppressed.* New York: Bloomsbury Academic, 2018. Print. (Selections in PDF)
 * Shor, Ira. *Critical Teaching and Everyday Life*. Chicago: The University of Chicago Press, 2013. Print. (Selections in PDF)
 * hooks, bell. *Teaching to Transgress: Education As the Practice of Freedom*. New York : Routledge, 2017. (Selections in PDF)
+
+## 5/13 - Collective Intervention Project Discussion
+
+## 5/20 - Final Reflections Due
 
 # Credits
 In its structure (and, in the case of the blog post assignment, occasionally its language), this syllabus takes direct inspiration from Luke Waltzer's Spring 2020 course on [Critical Infrastructure Studies](https://criticaledtechsp20.commons.gc.cuny.edu/) at the CUNY Graduate Center. #citepedagogy
