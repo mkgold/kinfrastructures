@@ -12,7 +12,7 @@ Office hours: **TBA**
 
 Room 5307.04
 
-#kinfrastructures
+Course Hashtag: kinfrastructures
 
 # Course Description
 Infrastructure is all around us, rarely remarked upon. Indeed, the latent state of infrastructure is part of what marks it as such; as Susan Leigh Starr has noted, infrastructure studies involves the examination of "boring things."
