@@ -1,5 +1,7 @@
-# Knowledge Infrastructures
-ENGL 89500. Wednesdays 4:15PM-6:15PM. Room 3305. 2/4 credits
+# ENGL 89500: Knowledge Infrastructures
+CUNY Graduate Center * Wednesdays 4:15PM-6:15PM * Room 3305 * 2/4 credits
+
+[Syllabus on GitHub](https://github.com/mkgold/kinfrastructures/blob/master/kinfrastructures-syllabus.md)
 
 \#kinfrastructures
 
@@ -80,7 +82,7 @@ Regular participation in our class discussions and online spaces is essential.
 ## 1/29 - Introductions
 *What is "infrastructure"? What is knowledge? What systems do we use ourselves, and what systems do those systems depend on? What issues are most important to us to explore this semester, and how can we together design a course that provides a meaningful learning experience for all of us? Reading through the syllabus as a whole, what changes would you like to make in this syllabus?*
 * "[What is a Data Center?](https://www.youtube.com/watch?v=kfvbCggY_nI)" Anixter. *YouTube* 27 July 2015.
-* Levin, Boaz and Ryan Jeffery["All That is Solid Melts Into Air" (excerpt)](http://spheres-journal.org/all-that-is-solid-melts-into-data/). *Places Journal*. June 2016.
+* Levin, Boaz and Ryan Jeffery. ["All That is Solid Melts Into Air" (excerpt)](http://spheres-journal.org/all-that-is-solid-melts-into-data/). *Places Journal*. June 2016.
 * "[Inside a Google Data Center.](https://www.youtube.com/watch?v=XZmGGAbHqa0)" G Suite. *YouTube*. 16 December 2014.
 * Gold, Matthew K. “The Syllabus as Shared Negotiation” (DRAFT). *Syllabus Journal.* *Forthcoming*
 
