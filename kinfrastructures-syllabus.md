@@ -46,7 +46,7 @@ Students should complete all weekly readings in advance of the class meeting and
 
 ## Assignments
 ## Blog Posts and Class Discussions
-Each student will write a response to the readings for one week of the course, to be posted by Tuesday morning the day before the class in which those readings will be discussed. These posts should offer a brief 1-2 paragraph response to the course texts and then should provide a set of 5-7 questions for group discussion. The post may also provide links to relevant related readings and resources. In class that day, that student will frame and initiate our discussion in class that week.
+Each week, one student will write a response to the assigned readings, to be posted by Tuesday morning the day before the class in which those readings will be discussed. These posts should offer a brief 1-2 paragraph response to the course texts and then should provide a set of 4-7 questions for group discussion. The post may also provide links to relevant related readings and resources. In class that day, that student will frame and initiate our discussion in class that week.
 
 Other assignments should be posted to the blog as suggested below. Generally, we should try to use our course blog as a way to share information with each other and anyone else following the course from afar. Students who prefer to post privately may use our agreed-upon password to protect their posts.
 
