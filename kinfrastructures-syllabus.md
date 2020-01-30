@@ -7,7 +7,7 @@ Course Group: https://commons.gc.cuny.edu/groups/engl-89500-knowledge-infrastruc
 
 [Syllabus on GitHub](https://github.com/mkgold/kinfrastructures/blob/master/kinfrastructures-syllabus.md)
 
-\#kinfrastructures
+\#kinfrastructures 
 
 # Contact Info
 [Dr. Matthew K. Gold](http://mkgold.net) 
