@@ -93,7 +93,7 @@ Regular participation in our class discussions and online spaces is essential.
 ## 2/5 - Infrastructural Thinking
 *How can we theorize and understand infrastructure? Let's examine some works of infrastructure studies and consider the emerging field of critical infrastructure studies and its relationship to digital humanities.*
 * Star, Susan Leigh. “The Ethnography of Infrastructure." *American Behavioral Scientist*, vol. 43.4, 1 November 1999. (PDF)
-* Bowker, Geoffrey C. and Susan Leigh Star. *Sorting Things Out: Classification and Its Consequences* (selections: "Some Tricks of the Trade in Analyzing Classification"; "Classification and Large-Scale Infrastructures"; "Categorical Work and Boundary Infrastructures: Enriching Theories of Classification"). Cambridge, Mass.: MIT Press, 1999. (PDF)
+* Bowker, Geoffrey C. and Susan Leigh Star. *Sorting Things Out: Classification and Its Consequences* (selections: "Some Tricks of the Trade in Analyzing Classification"; "Categorical Work and Boundary Infrastructures: Enriching Theories of Classification"). Cambridge, Mass.: MIT Press, 1999. (PDF)
 * Larkin, Brian, “The Politics and Poetics of Infrastructure.” *Annual Review of Anthropology*, Vol. 42, 2013, pp. 327-343. (PDF)
 * Rueb, Emily S. and Eiko Ojala. ["New York 101: Why are the streets always under construction?”](http://www.nytimes.com/interactive/2016/08/18/nyregion/new-york-101-streets-repair-and-maintenance.html) *New York Times*. 18 August 2016. 
 * Liu, Alan. "[CI Studies Bibliography](https://cistudies.org/critical-infrastructures-bibliography/)." *Critical Infrastructure Studies.org*. N.d.
