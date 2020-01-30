@@ -2,6 +2,7 @@
 CUNY Graduate Center * Wednesdays 4:15PM-6:15PM * Room 3305 * 2/4 credits
 
 Course Website: https://kinfrastructures.commons.gc.cuny.edu/ or http://cuny.is/kinfrastructures
+
 Course Group: https://commons.gc.cuny.edu/groups/engl-89500-knowledge-infrastructures/ or http://cuny.is/kinfrastructuresgroup
 
 [Syllabus on GitHub](https://github.com/mkgold/kinfrastructures/blob/master/kinfrastructures-syllabus.md)
@@ -113,7 +114,7 @@ Regular participation in our class discussions and online spaces is essential.
 * Presner, Todd. Critical Theory and the Mangle of Digital Humanities,” in The Humanities and the Digital, eds. David Theo Goldberg and Patrik Svensson. Cambridge: MIT Press, 2014. (PDF)
 * Greenspan, Brian. "[The Scandal of Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4b6be68c-802c-41f4-a2a5-284187ec0a5c#ch09)." *Debates in the Digital Humanities 2019*, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: University of Minnesota Press, 2019.
 
-## 2/26 - Knowledge Systems, Data, and Infrastructures
+## 3/4 - Knowledge Systems, Data, and Infrastructures
 * [SPARC* 2019 Landscape Analysis: The Changing Academic Publishing Industry – Implications for Academic Institutions](https://sparcopen.org/our-work/landscape-analysis/). 
 * Borgman, Christine. *Scholarship in the Digital Age: Information, Infrastructure, and the Internet*. Cambridge, Mass.: MIT Press, 2007.
 * Bowker, Geoffrey C. "Sustainable Knowledge Infrastructures." *The Promise of Infrastructure*, ed. Nikhil Anand, Akhil Gupta, and Hannah Appel. Durham: Duke University Press, 2018. (PDF)
@@ -122,19 +123,19 @@ Regular participation in our class discussions and online spaces is essential.
 * Gil, Alex. ["Interview with Ernesto Oroza."](https://dhdebates.gc.cuny.edu/read/untitled/section/f2df3413-259e-46fe-9982-f1dba0c386fb) *Debates in the Digital Humanities 2016*, edited by Matthew K. Gold and Lauren F. Klein, University of Minnesota Press, 2016.
 
 ## THEORIES
-## 3/4 - Commoning
+## 3/11 - Commoning
 * Hess, Charlotte, and Elinor Ostrom. *Understanding Knowledge As a Commons: From Theory to Practice*. Cambridge, Mass: MIT Press, 2011. (Selections in PDF)
 * Harvey, David. "The Creation of the Urban Commons." *Rebel Cities*. New York: Verso, 2012. (PDF)
 * Kathleen Fitzpatrick, "Working in Public." In *Generous Thinking*. Baltimore: Johns Hopkins University Press, 2019. (PDF)
 * Sweeney, Miriam E. "The Intersectional Interface." In *The Intersectional Internet: Race, Sex, Class, and Culture Online*. Eds. Safiya Umoja Noble and Brendesha M. Tynes. New York: Peter Lang, 2016: 215-228. (PDF)
 
-## 3/11 - Troubling
+## 3/18 - Troubling
 * Barad, Karen. "Meeting the Universe Halfway." In *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning.* Durham: Duke University Press, 2007. (PDF)
 * Haraway, Donna. "Introduction" and "Sympoiesis." In *Staying with the Trouble*. Durham: Duke University Press, 2016. (PDF)
 * Ahmed, Sara. "Conclusion: Disorientation and Queer Objects." In *Queer Phenomenologies*. Durham: Duke University Press, 2006. (PDF)
 * Latour, Bruno. "Introduction: How to Resume the Task of Tracing Associations." In *Reassembling the Social: An Introduction to Actor-Network Theory*. New York: Oxford University Press, 2005. (PDF)
 
-## 3/18 - Opening
+## 3/25 - Opening
 * Kelty, Christopher M. Two Bits: The Cultural Significance of Free Software. Durham: Duke University Press, 2008. (Selections in PDF)
 * Groom, Jim. "[I Bleed CUNY Blood](https://bavatuesdays.com/i-bleed-cuny-blood/)." *Bava Tuesdays. 25 May 2009.
 * Hyde, Lewis. *Common As Air: Revolution, Art and Ownership*. London: Union Books, 2012. (Selections in PDF)
@@ -142,23 +143,23 @@ Regular participation in our class discussions and online spaces is essential.
 * Stallman, Richard. "[GNU Manifesto](https://www.gnu.org/gnu/manifesto.html).*
 
 ## SPACES AND PLATFORMS
-## 3/25 - The University
+## 4/1 - The University
 * Fabricant, Michael, and Stephen Brier. Austerity Blues: Fighting for the Soul of Public Higher Education. Baltimore: Johns Hopkins University Press, 2016. (Selections in PDF)
 * Harney, Stefano, and Fred Moten. The Undercommons: Fugitive Planning Et Black Study. Wivenhoe: Minor Compositions, 2013. (Selections in PDF)
 * Wellmon, Chad. Organizing Enlightenment: Information Overload and the Invention of the Modern Research University. , 2016. (Selections in PDF)
 * Lamont, Michéle. *How Professors Think: Inside the Curious World of Academic Judgement.* Cambridge, Mass.: Harvard University Press, 2009. (Sections in PDF)
 
-## 4/1 - The Library
+## 4/7 (TUESDAY) - The Library
 * Weinberger, David. "[Library as Platform](https://www.libraryjournal.com/?detailStory=by-david-weinberger)." *Library Journal*. 4 September 2012.
 * Mattern, Shannon. "[The Library as Infrastructure](https://placesjournal.org/article/library-as-infrastructure/?cn-reloaded=1)." *Places Journal*. June 2014.
 
-## 4/7 - The Book
+## 4/22 - The Book
 * Borsuk, Amaranth. *The Book*. Cambridge, MA: MIT Press, 2018. (PDF)
 * Howsam, Leslie. "The Study of Book History." In *The Cambridge Companion to the History of the Book*, Ed. Leslie Howsam. Cambridge, UK: Cambridge University Press, 2015: 1-16. (PDF)
 * Kirschenbaum, Matthew G. *Mechanisms: New Media and the Forensic Imagination*. Cambridge, MA: MIT Press, 2012. (Selections in PDF)
 * Kirschenbaum, Matthew G."[Books After the Death of the Book](http://www.publicbooks.org/books-after-the-death-of-the-book/)." *Public Books* 31 March 2017. 
 
-## 4/22 - Publishing Systems
+## 4/29 - Publishing Systems
 * Borgman, Christine. *Scholarship in the Digital Age: Information, Infrastructure, and the Internet*. Cambridge, Mass.: MIT Press, 2007. (Selections in PDF)
 * Siemens, Ray, Meagan Timney, Cara Leitch, Corina Koolen, and Alex Garnett, with the ETCL, INKE, and PKP Research Groups. "Toward Modeling the Social Edition: An Approach to Understanding the Electronic Scholarly Edition in the Context of New and Emerging Social Media," with Meagan Timney, Cara Leitch, Corina Koolen, and Alex Garnett, and with the ETCL, INKE, and PKP Research Groups. Literary and Linguistic Computing 27.4 (2012): 445-461. (PDF)
 * [Manifold](http://manifoldapp.org)
@@ -166,19 +167,17 @@ Regular participation in our class discussions and online spaces is essential.
 * [Humanities Commons](https://hcommons.org/)
 
 ## METHODS
-## 4/29 - Searching
+## 5/6 - Searching
 * Noble, Safiya U. Algorithms of Oppression: How Search Engines Reinforce Racism. New York: New York University Press, 2018. (Selections in PDF)
 * Seaver, Nick. "[Knowing Algorithms](https://digitalsts.net/wp-content/uploads/2019/11/26_digitalSTS_Knowing-Algorithms.pdf)." In *Digitalsts: A Field Guide for Science & Technology Studies*, Ed. Janet Vertesi and David Ribes. Princeton, NJ: Princeton University Press, 2019.
 * Seaver, Nick. "Captivating algorithms: Recommender systems as traps." *Journal of Material Culture*, 24(4) (2019), 421–436. (PDF)
 
-## 5/6 - Teaching
+## 5/13 - Teaching
 * Freire, Paulo. *Pedagogy of the Oppressed.* New York: Bloomsbury Academic, 2018. Print. (Selections in PDF)
 * Shor, Ira. *Critical Teaching and Everyday Life*. Chicago: The University of Chicago Press, 2013. Print. (Selections in PDF)
 * hooks, bell. *Teaching to Transgress: Education As the Practice of Freedom*. New York : Routledge, 2017. (Selections in PDF)
 
-## 5/13 - Collective Intervention Project Discussion
-
-## 5/20 - Final Reflections Due
+## 5/20 - Final Reflections Due/Final Discussions
 
 # Credits
 In its structure (and, in the case of the blog post assignment, occasionally its language), this syllabus takes direct inspiration from Luke Waltzer's Spring 2020 course on [Critical Infrastructure Studies](https://criticaledtechsp20.commons.gc.cuny.edu/) at the CUNY Graduate Center. \#citepedagogy
