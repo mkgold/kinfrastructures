@@ -15,7 +15,7 @@ Course Group: https://commons.gc.cuny.edu/groups/engl-89500-knowledge-infrastruc
 
 (212) 817-7256
 
-Office hours: **TBA**
+Office hours: Tuesdays 5pm-6pm and by appointment
 
 Room 5307.04
 
