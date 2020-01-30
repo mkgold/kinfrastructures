@@ -1,6 +1,9 @@
 # ENGL 89500: Knowledge Infrastructures
 CUNY Graduate Center * Wednesdays 4:15PM-6:15PM * Room 3305 * 2/4 credits
 
+Course Website: https://kinfrastructures.commons.gc.cuny.edu/ or http://cuny.is/kinfrastructures
+Course Group: https://commons.gc.cuny.edu/groups/engl-89500-knowledge-infrastructures/ or http://cuny.is/kinfrastructuresgroup
+
 [Syllabus on GitHub](https://github.com/mkgold/kinfrastructures/blob/master/kinfrastructures-syllabus.md)
 
 \#kinfrastructures
