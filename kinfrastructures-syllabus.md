@@ -116,7 +116,6 @@ Regular participation in our class discussions and online spaces is essential.
 
 ## 3/4 - Knowledge Systems, Data, and Infrastructures
 * [SPARC* 2019 Landscape Analysis: The Changing Academic Publishing Industry – Implications for Academic Institutions](https://sparcopen.org/our-work/landscape-analysis/). 
-* Borgman, Christine. *Scholarship in the Digital Age: Information, Infrastructure, and the Internet*. Cambridge, Mass.: MIT Press, 2007.
 * Bowker, Geoffrey C. "Sustainable Knowledge Infrastructures." *The Promise of Infrastructure*, ed. Nikhil Anand, Akhil Gupta, and Hannah Appel. Durham: Duke University Press, 2018. (PDF)
 * Liu, Alan. “[Drafts for Against the Cultural Singularity (book in progress)](http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity).” *Alan Liu*, 2 May 2016. 
 * Guiliano, Jennifer, and Carolyn Heitman. "[Difficult Heritage and the Complexities of Indigenous Data](https://culturalanalytics.org/2019/08/difficult-heritage-and-the-complexities-of-indigenous-data/)." *Journal of Cultural Analytics*, edited by Andrew Piper, 13 August 2019.
