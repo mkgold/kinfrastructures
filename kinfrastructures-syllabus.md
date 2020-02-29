@@ -118,7 +118,7 @@ Regular participation in our class discussions and online spaces is essential.
 * [SPARC* 2019 Landscape Analysis: The Changing Academic Publishing Industry – Implications for Academic Institutions](https://sparcopen.org/our-work/landscape-analysis/). 
 * Bowker, Geoffrey C. "Sustainable Knowledge Infrastructures." *The Promise of Infrastructure*, ed. Nikhil Anand, Akhil Gupta, and Hannah Appel. Durham: Duke University Press, 2018. (PDF)
 * Liu, Alan. “[Drafts for Against the Cultural Singularity (book in progress)](http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity).” *Alan Liu*, 2 May 2016. 
-* Guiliano, Jennifer, and Carolyn Heitman. "[Difficult Heritage and the Complexities of Indigenous Data](https://culturalanalytics.org/2019/08/difficult-heritage-and-the-complexities-of-indigenous-data/)." *Journal of Cultural Analytics*, edited by Andrew Piper, 13 August 2019.
+* Guiliano, Jennifer, and Carolyn Heitman. "[Difficult Heritage and the Complexities of Indigenous Data](https://culturalanalytics.org/article/11041)." *Journal of Cultural Analytics*, edited by Andrew Piper, 13 August 2019.
 * Gil, Alex. ["Interview with Ernesto Oroza."](https://dhdebates.gc.cuny.edu/read/untitled/section/f2df3413-259e-46fe-9982-f1dba0c386fb) *Debates in the Digital Humanities 2016*, edited by Matthew K. Gold and Lauren F. Klein, University of Minnesota Press, 2016.
 
 ## THEORIES
