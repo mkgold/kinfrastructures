@@ -140,7 +140,7 @@ Regular participation in our class discussions and online spaces is essential.
 * Groom, Jim. "[I Bleed CUNY Blood](https://bavatuesdays.com/i-bleed-cuny-blood/)." *Bava Tuesdays. 25 May 2009.
 * Hyde, Lewis. *Common As Air: Revolution, Art and Ownership*. London: Union Books, 2012. (Selections in PDF)
 * Eve, Martin. "Introduction, or why open access?" In *[Open Access and the Humanities: Contexts, Controversies and the Future](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/02BD7DB4A5172A864C432DBFD86E5FB4/9781107097896AR.pdf/Open_Access_and_the_Humanities.pdf?event-type=FTL"A)*. Cambridge: Cambridge University Press: 2014. (Selections in PDF) 
-* Stallman, Richard. "[GNU Manifesto](https://www.gnu.org/gnu/manifesto.html).*
+* Zuckerman, Ethan. “[The Case for Digital Public Infrastructure](https://knightcolumbia.org/content/the-case-for-digital-public-infrastructure).” 17 January 2020.
 
 ## SPACES AND PLATFORMS
 ## 4/1 - The University
@@ -149,9 +149,10 @@ Regular participation in our class discussions and online spaces is essential.
 * Wellmon, Chad. Organizing Enlightenment: Information Overload and the Invention of the Modern Research University. , 2016. (Selections in PDF)
 * Lamont, Michéle. *How Professors Think: Inside the Curious World of Academic Judgement.* Cambridge, Mass.: Harvard University Press, 2009. (Sections in PDF)
 
-## 4/7 (TUESDAY) - The Library
+## 4/7 (TUESDAY) - Libraries and Archives
 * Weinberger, David. "[Library as Platform](https://www.libraryjournal.com/?detailStory=by-david-weinberger)." *Library Journal*. 4 September 2012.
 * Mattern, Shannon. "[The Library as Infrastructure](https://placesjournal.org/article/library-as-infrastructure/?cn-reloaded=1)." *Places Journal*. June 2014.
+* Nelson, Michael L. "[Web Archives at the Nexus of Good Fakes and Flawed Originals](https://vimeo.com/330858203).” *Vimeo*. 16 April 2019.
 
 ## 4/22 - The Book
 ** Digital Ethnography Assignment Due**
@@ -161,8 +162,8 @@ Regular participation in our class discussions and online spaces is essential.
 * Kirschenbaum, Matthew G."[Books After the Death of the Book](http://www.publicbooks.org/books-after-the-death-of-the-book/)." *Public Books* 31 March 2017. 
 
 ## 4/29 - Publishing Systems
-* Borgman, Christine. *Scholarship in the Digital Age: Information, Infrastructure, and the Internet*. Cambridge, Mass.: MIT Press, 2007. (Selections in PDF)
 * Siemens, Ray, Meagan Timney, Cara Leitch, Corina Koolen, and Alex Garnett, with the ETCL, INKE, and PKP Research Groups. "Toward Modeling the Social Edition: An Approach to Understanding the Electronic Scholarly Edition in the Context of New and Emerging Social Media," with Meagan Timney, Cara Leitch, Corina Koolen, and Alex Garnett, and with the ETCL, INKE, and PKP Research Groups. Literary and Linguistic Computing 27.4 (2012): 445-461. (PDF)
+* Fitzpatrick, Kathleen. *Planned Obsolescence: Publishing, Technology, and the Future of the Academy*. New York: New York University Press, 2011. (selections in PDF)
 * [Manifold](http://manifoldapp.org)
 * [CUNY Academic Commons](http://commons.gc.cuny.edu) 
 * [Humanities Commons](https://hcommons.org/)
