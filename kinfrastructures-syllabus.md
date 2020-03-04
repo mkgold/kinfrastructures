@@ -123,7 +123,8 @@ Regular participation in our class discussions and online spaces is essential.
 
 ## THEORIES
 ## 3/11 - Commoning
-* Hess, Charlotte, and Elinor Ostrom. *Understanding Knowledge As a Commons: From Theory to Practice*. Cambridge, Mass: MIT Press, 2011. (Selections in PDF)
+* Hess, Charlotte, and Elinor Ostrom. *Understanding Knowledge As a Commons: From Theory to Practice*. Cambridge, Mass: MIT Press, 2011. (
+ebook freely available through library catalog): Introduction + Chapters 1, 2, and 3 (pp. 3-83)
 * Harvey, David. "The Creation of the Urban Commons." *Rebel Cities*. New York: Verso, 2012. (PDF)
 * Kathleen Fitzpatrick, "Working in Public." In *Generous Thinking*. Baltimore: Johns Hopkins University Press, 2019. (PDF)
 * Sweeney, Miriam E. "The Intersectional Interface." In *The Intersectional Internet: Race, Sex, Class, and Culture Online*. Eds. Safiya Umoja Noble and Brendesha M. Tynes. New York: Peter Lang, 2016: 215-228. (PDF)
@@ -153,6 +154,7 @@ Regular participation in our class discussions and online spaces is essential.
 * Weinberger, David. "[Library as Platform](https://www.libraryjournal.com/?detailStory=by-david-weinberger)." *Library Journal*. 4 September 2012.
 * Mattern, Shannon. "[The Library as Infrastructure](https://placesjournal.org/article/library-as-infrastructure/?cn-reloaded=1)." *Places Journal*. June 2014.
 * Nelson, Michael L. "[Web Archives at the Nexus of Good Fakes and Flawed Originals](https://vimeo.com/330858203).” *Vimeo*. 16 April 2019.
+* Waters, Donald. "Preserving the Knowledge Commons." In Hess, Charlotte, and Elinor Ostrom. *Understanding Knowledge As a Commons: From Theory to Practice*. Cambridge, Mass: MIT Press, 2011. (ebook freely available through library catalogue): pp. 145-168.
 
 ## 4/22 - The Book
 ** Digital Ethnography Assignment Due**
@@ -164,6 +166,7 @@ Regular participation in our class discussions and online spaces is essential.
 ## 4/29 - Publishing Systems
 * Siemens, Ray, Meagan Timney, Cara Leitch, Corina Koolen, and Alex Garnett, with the ETCL, INKE, and PKP Research Groups. "Toward Modeling the Social Edition: An Approach to Understanding the Electronic Scholarly Edition in the Context of New and Emerging Social Media," with Meagan Timney, Cara Leitch, Corina Koolen, and Alex Garnett, and with the ETCL, INKE, and PKP Research Groups. Literary and Linguistic Computing 27.4 (2012): 445-461. (PDF)
 * Fitzpatrick, Kathleen. *Planned Obsolescence: Publishing, Technology, and the Future of the Academy*. New York: New York University Press, 2011. (selections in PDF)
+* Suber, Peter. "Creating an Intellectual Commons through Open Access." In Hess, Charlotte, and Elinor Ostrom. *Understanding Knowledge As a Commons: From Theory to Practice*. Cambridge, Mass: MIT Press, 2011. (ebook freely available through library catalogue): pp. 171-208.
 * [Manifold](http://manifoldapp.org)
 * [CUNY Academic Commons](http://commons.gc.cuny.edu) 
 * [Humanities Commons](https://hcommons.org/)
