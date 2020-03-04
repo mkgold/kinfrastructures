@@ -135,6 +135,7 @@ Regular participation in our class discussions and online spaces is essential.
 * Latour, Bruno. "Introduction: How to Resume the Task of Tracing Associations." In *Reassembling the Social: An Introduction to Actor-Network Theory*. New York: Oxford University Press, 2005. (PDF)
 
 ## 3/25 - Opening
+** Personal Narrative Assignment Due**
 * Kelty, Christopher M. Two Bits: The Cultural Significance of Free Software. Durham: Duke University Press, 2008. (Selections in PDF)
 * Groom, Jim. "[I Bleed CUNY Blood](https://bavatuesdays.com/i-bleed-cuny-blood/)." *Bava Tuesdays. 25 May 2009.
 * Hyde, Lewis. *Common As Air: Revolution, Art and Ownership*. London: Union Books, 2012. (Selections in PDF)
@@ -153,6 +154,7 @@ Regular participation in our class discussions and online spaces is essential.
 * Mattern, Shannon. "[The Library as Infrastructure](https://placesjournal.org/article/library-as-infrastructure/?cn-reloaded=1)." *Places Journal*. June 2014.
 
 ## 4/22 - The Book
+** Digital Ethnography Assignment Due**
 * Borsuk, Amaranth. *The Book*. Cambridge, MA: MIT Press, 2018. (PDF)
 * Howsam, Leslie. "The Study of Book History." In *The Cambridge Companion to the History of the Book*, Ed. Leslie Howsam. Cambridge, UK: Cambridge University Press, 2015: 1-16. (PDF)
 * Kirschenbaum, Matthew G. *Mechanisms: New Media and the Forensic Imagination*. Cambridge, MA: MIT Press, 2012. (Selections in PDF)
@@ -176,7 +178,7 @@ Regular participation in our class discussions and online spaces is essential.
 * Shor, Ira. *Critical Teaching and Everyday Life*. Chicago: The University of Chicago Press, 2013. Print. (Selections in PDF)
 * hooks, bell. *Teaching to Transgress: Education As the Practice of Freedom*. New York : Routledge, 2017. (Selections in PDF)
 
-## 5/20 - Final Reflections Due/Final Discussions
+## 5/20 - Collective Intervention and Final Reflections Due/Final Discussions
 
 # Credits
 In its structure (and, in the case of the blog post assignment, occasionally its language), this syllabus takes direct inspiration from Luke Waltzer's Spring 2020 course on [Critical Infrastructure Studies](https://criticaledtechsp20.commons.gc.cuny.edu/) at the CUNY Graduate Center. \#citepedagogy
