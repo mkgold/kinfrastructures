@@ -1,6 +1,6 @@
 # ENGL 89500: Knowledge Infrastructures
 
-**NOTE: This is a post-COVID-19 syllabus. For the original syllabus, please click here.**
+**NOTE: This is a post-COVID-19 syllabus. [https://kinfrastructures.commons.gc.cuny.edu/pre-covid-19-syllabus/](Click here for the original syllabus).**
 
 CUNY Graduate Center * Wednesdays 4:15PM-6:15PM * Room 3305 * 2/4 credits
 
