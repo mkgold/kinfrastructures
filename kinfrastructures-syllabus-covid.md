@@ -139,7 +139,7 @@ ebook freely available through library catalog): Introduction + Chapters 1, 2, a
 * Latour, Bruno. "Introduction: How to Resume the Task of Tracing Associations." In *Reassembling the Social: An Introduction to Actor-Network Theory*. New York: Oxford University Press, 2005. (PDF)
 
 ## 3/25 - Opening
-** Personal Narrative Assignment Due**
+** Personal Narrative Assignment Due (OPTIONAL)**
 * Kelty, Christopher M. Two Bits: The Cultural Significance of Free Software. Durham: Duke University Press, 2008. [https://www.twobits.net/pub/Kelty-TwoBits.pdf]("Introduction")
 * Groom, Jim. "[I Bleed CUNY Blood](https://bavatuesdays.com/i-bleed-cuny-blood/)." *Bava Tuesdays. 25 May 2009.
 * Eve, Martin. "Introduction, or why open access?" In *[Open Access and the Humanities: Contexts, Controversies and the Future](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/02BD7DB4A5172A864C432DBFD86E5FB4/9781107097896AR.pdf/Open_Access_and_the_Humanities.pdf?event-type=FTL"A)*. Cambridge: Cambridge University Press: 2014. (Selections in PDF) 
