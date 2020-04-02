@@ -155,7 +155,7 @@ ebook freely available through library catalog): Introduction + Chapters 1, 2, a
 * Harney, Stefano, and Fred Moten. The Undercommons: Fugitive Planning Et Black Study. Wivenhoe: Minor Compositions, 2013. ("The University and the Undercommons" and "Logistics" in PDF)
 
 
-## 4/22 (TUESDAY) - Libraries and Archives
+## 4/22 - Libraries and Archives
 * Weinberger, David. "[Library as Platform](https://www.libraryjournal.com/?detailStory=by-david-weinberger)." *Library Journal*. 4 September 2012.
 * Mattern, Shannon. "[The Library as Infrastructure](https://placesjournal.org/article/library-as-infrastructure/?cn-reloaded=1)." *Places Journal*. June 2014.
 * Nelson, Michael L. "[Web Archives at the Nexus of Good Fakes and Flawed Originals](https://vimeo.com/330858203).” *Vimeo*. 16 April 2019.
