@@ -134,6 +134,8 @@ ebook freely available through library catalog): Introduction + Chapters 1, 2, a
 
 # ~~ **COVID-19 DISTRUPTION** ~~
 
+*all classes online from here forward**
+
 ## 3/18 - No Class -- CUNY-wide instructional pause
 
 ## 3/25 - Troubling
