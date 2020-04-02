@@ -132,11 +132,15 @@ ebook freely available through library catalog): Introduction + Chapters 1, 2, a
 * Kathleen Fitzpatrick, "Working in Public." In *Generous Thinking*. Baltimore: Johns Hopkins University Press, 2019. (PDF)
 * Sweeney, Miriam E. "The Intersectional Interface." In *The Intersectional Internet: Race, Sex, Class, and Culture Online*. Eds. Safiya Umoja Noble and Brendesha M. Tynes. New York: Peter Lang, 2016: 215-228. (PDF)
 
-## 3/18 - Troubling
+**COVID-19 DISTRUPTION**
+
+## 3/18 - No Class -- CUNY-wide instructional pause
+
+## 3/25 - Troubling
 * Haraway, Donna. "Introduction" and "Sympoiesis." In *Staying with the Trouble*. Durham: Duke University Press, 2016. (PDF)
 * Ahmed, Sara. "Conclusion: Disorientation and Queer Objects." In *Queer Phenomenologies*. Durham: Duke University Press, 2006. (PDF)
 
-## 3/25 - Opening
+## 4/1 - Opening
 ** Personal Narrative Assignment Due (OPTIONAL)**
 * Kelty, Christopher M. Two Bits: The Cultural Significance of Free Software. Durham: Duke University Press, 2008. [https://www.twobits.net/pub/Kelty-TwoBits.pdf]("Introduction" only)
 * Groom, Jim. "[I Bleed CUNY Blood](https://bavatuesdays.com/i-bleed-cuny-blood/)." *Bava Tuesdays. 25 May 2009.
@@ -144,25 +148,25 @@ ebook freely available through library catalog): Introduction + Chapters 1, 2, a
 * Zuckerman, Ethan. “[The Case for Digital Public Infrastructure](https://knightcolumbia.org/content/the-case-for-digital-public-infrastructure).” 17 January 2020.
 
 ## SPACES AND PLATFORMS
-## 4/1 - The University
+## 4/7 (TUESDAY) - The University
 * Fabricant, Michael, and Stephen Brier. Austerity Blues: Fighting for the Soul of Public Higher Education. Baltimore: Johns Hopkins University Press, 2016. (All except Ch 5 in PDF)
 * Harney, Stefano, and Fred Moten. The Undercommons: Fugitive Planning Et Black Study. Wivenhoe: Minor Compositions, 2013. ("The University and the Undercommons" and "Logistics" in PDF)
 
 
-## 4/7 (TUESDAY) - Libraries and Archives
+## 4/22 (TUESDAY) - Libraries and Archives
 * Weinberger, David. "[Library as Platform](https://www.libraryjournal.com/?detailStory=by-david-weinberger)." *Library Journal*. 4 September 2012.
 * Mattern, Shannon. "[The Library as Infrastructure](https://placesjournal.org/article/library-as-infrastructure/?cn-reloaded=1)." *Places Journal*. June 2014.
 * Nelson, Michael L. "[Web Archives at the Nexus of Good Fakes and Flawed Originals](https://vimeo.com/330858203).” *Vimeo*. 16 April 2019.
 * Waters, Donald. "Preserving the Knowledge Commons." In Hess, Charlotte, and Elinor Ostrom. *Understanding Knowledge As a Commons: From Theory to Practice*. Cambridge, Mass: MIT Press, 2011. (ebook freely available through library catalogue): pp. 145-168.
 
-## 4/22 - The Book
+## 4/29 - The Book
 ** Digital Ethnography Assignment Due**
 * Borsuk, Amaranth. *The Book*. Cambridge, MA: MIT Press, 2018. (PDF)
 * Howsam, Leslie. "The Study of Book History." In *The Cambridge Companion to the History of the Book*, Ed. Leslie Howsam. Cambridge, UK: Cambridge University Press, 2015: 1-16. (PDF)
 * Kirschenbaum, Matthew G. *Mechanisms: New Media and the Forensic Imagination*. Cambridge, MA: MIT Press, 2012. (Selections in PDF)
 * Kirschenbaum, Matthew G."[Books After the Death of the Book](http://www.publicbooks.org/books-after-the-death-of-the-book/)." *Public Books* 31 March 2017. 
 
-## 4/29 - Publishing Systems
+## 5/6 - Publishing Systems
 * Siemens, Ray, Meagan Timney, Cara Leitch, Corina Koolen, and Alex Garnett, with the ETCL, INKE, and PKP Research Groups. "Toward Modeling the Social Edition: An Approach to Understanding the Electronic Scholarly Edition in the Context of New and Emerging Social Media," with Meagan Timney, Cara Leitch, Corina Koolen, and Alex Garnett, and with the ETCL, INKE, and PKP Research Groups. Literary and Linguistic Computing 27.4 (2012): 445-461. (PDF)
 * Fitzpatrick, Kathleen. *Planned Obsolescence: Publishing, Technology, and the Future of the Academy*. New York: New York University Press, 2011. (selections in PDF)
 * Suber, Peter. "Creating an Intellectual Commons through Open Access." In Hess, Charlotte, and Elinor Ostrom. *Understanding Knowledge As a Commons: From Theory to Practice*. Cambridge, Mass: MIT Press, 2011. (ebook freely available through library catalogue): pp. 171-208.
@@ -171,17 +175,17 @@ ebook freely available through library catalog): Introduction + Chapters 1, 2, a
 * [Humanities Commons](https://hcommons.org/)
 
 ## METHODS
-## 5/6 - Searching
+## 5/13 - Searching
 * Noble, Safiya U. Algorithms of Oppression: How Search Engines Reinforce Racism. New York: New York University Press, 2018. (Selections in PDF)
 * Seaver, Nick. "[Knowing Algorithms](https://digitalsts.net/wp-content/uploads/2019/11/26_digitalSTS_Knowing-Algorithms.pdf)." In *Digitalsts: A Field Guide for Science & Technology Studies*, Ed. Janet Vertesi and David Ribes. Princeton, NJ: Princeton University Press, 2019.
 * Seaver, Nick. "Captivating algorithms: Recommender systems as traps." *Journal of Material Culture*, 24(4) (2019), 421–436. (PDF)
 
-## 5/13 - Teaching
+## 5/20 - Teaching
+**Collective Intervention and Final Reflections Due/Final Discussions**
 * Freire, Paulo. *Pedagogy of the Oppressed.* New York: Bloomsbury Academic, 2018. Print. (Selections in PDF)
 * Shor, Ira. *Critical Teaching and Everyday Life*. Chicago: The University of Chicago Press, 2013. Print. (Selections in PDF)
 * hooks, bell. *Teaching to Transgress: Education As the Practice of Freedom*. New York : Routledge, 2017. (Selections in PDF)
 
-## 5/20 - Collective Intervention and Final Reflections Due/Final Discussions
 
 # Credits
 In its structure (and, in the case of the blog post assignment, occasionally its language), this syllabus takes direct inspiration from Luke Waltzer's Spring 2020 course on [Critical Infrastructure Studies](https://criticaledtechsp20.commons.gc.cuny.edu/) at the CUNY Graduate Center. \#citepedagogy
