@@ -133,16 +133,14 @@ ebook freely available through library catalog): Introduction + Chapters 1, 2, a
 * Sweeney, Miriam E. "The Intersectional Interface." In *The Intersectional Internet: Race, Sex, Class, and Culture Online*. Eds. Safiya Umoja Noble and Brendesha M. Tynes. New York: Peter Lang, 2016: 215-228. (PDF)
 
 ## 3/18 - Troubling
-* Barad, Karen. "Meeting the Universe Halfway." In *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning.* Durham: Duke University Press, 2007. (PDF)
 * Haraway, Donna. "Introduction" and "Sympoiesis." In *Staying with the Trouble*. Durham: Duke University Press, 2016. (PDF)
 * Ahmed, Sara. "Conclusion: Disorientation and Queer Objects." In *Queer Phenomenologies*. Durham: Duke University Press, 2006. (PDF)
-* Latour, Bruno. "Introduction: How to Resume the Task of Tracing Associations." In *Reassembling the Social: An Introduction to Actor-Network Theory*. New York: Oxford University Press, 2005. (PDF)
 
 ## 3/25 - Opening
 ** Personal Narrative Assignment Due (OPTIONAL)**
-* Kelty, Christopher M. Two Bits: The Cultural Significance of Free Software. Durham: Duke University Press, 2008. [https://www.twobits.net/pub/Kelty-TwoBits.pdf]("Introduction")
+* Kelty, Christopher M. Two Bits: The Cultural Significance of Free Software. Durham: Duke University Press, 2008. [https://www.twobits.net/pub/Kelty-TwoBits.pdf]("Introduction" only)
 * Groom, Jim. "[I Bleed CUNY Blood](https://bavatuesdays.com/i-bleed-cuny-blood/)." *Bava Tuesdays. 25 May 2009.
-* Eve, Martin. "Introduction, or why open access?" In *[Open Access and the Humanities: Contexts, Controversies and the Future](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/02BD7DB4A5172A864C432DBFD86E5FB4/9781107097896AR.pdf/Open_Access_and_the_Humanities.pdf?event-type=FTL"A)*. Cambridge: Cambridge University Press: 2014. (Selections in PDF) 
+* Eve, Martin. "Introduction, or why open access?" In *[Open Access and the Humanities: Contexts, Controversies and the Future](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/02BD7DB4A5172A864C432DBFD86E5FB4/9781107097896AR.pdf/Open_Access_and_the_Humanities.pdf?event-type=FTL"A)*. Cambridge: Cambridge University Press: 2014. ("Introduction") 
 * Zuckerman, Ethan. “[The Case for Digital Public Infrastructure](https://knightcolumbia.org/content/the-case-for-digital-public-infrastructure).” 17 January 2020.
 
 ## SPACES AND PLATFORMS
