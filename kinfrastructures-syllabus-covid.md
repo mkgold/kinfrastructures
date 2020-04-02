@@ -132,7 +132,7 @@ ebook freely available through library catalog): Introduction + Chapters 1, 2, a
 * Kathleen Fitzpatrick, "Working in Public." In *Generous Thinking*. Baltimore: Johns Hopkins University Press, 2019. (PDF)
 * Sweeney, Miriam E. "The Intersectional Interface." In *The Intersectional Internet: Race, Sex, Class, and Culture Online*. Eds. Safiya Umoja Noble and Brendesha M. Tynes. New York: Peter Lang, 2016: 215-228. (PDF)
 
-# ~~ **COVID-19 DISTRUPTION** ~~
+# ~~ **COVID-19 DISRUPTION** ~~
 
 *all classes online from here forward*
 
