@@ -145,10 +145,9 @@ ebook freely available through library catalog): Introduction + Chapters 1, 2, a
 
 ## SPACES AND PLATFORMS
 ## 4/1 - The University
-* Fabricant, Michael, and Stephen Brier. Austerity Blues: Fighting for the Soul of Public Higher Education. Baltimore: Johns Hopkins University Press, 2016. (Selections in PDF)
-* Harney, Stefano, and Fred Moten. The Undercommons: Fugitive Planning Et Black Study. Wivenhoe: Minor Compositions, 2013. (Selections in PDF)
-* Wellmon, Chad. Organizing Enlightenment: Information Overload and the Invention of the Modern Research University. , 2016. (Selections in PDF)
-* Lamont, Michéle. *How Professors Think: Inside the Curious World of Academic Judgement.* Cambridge, Mass.: Harvard University Press, 2009. (Sections in PDF)
+* Fabricant, Michael, and Stephen Brier. Austerity Blues: Fighting for the Soul of Public Higher Education. Baltimore: Johns Hopkins University Press, 2016. (All except Ch 5 in PDF)
+* Harney, Stefano, and Fred Moten. The Undercommons: Fugitive Planning Et Black Study. Wivenhoe: Minor Compositions, 2013. ("The University and the Undercommons" and "Logistics" in PDF)
+
 
 ## 4/7 (TUESDAY) - Libraries and Archives
 * Weinberger, David. "[Library as Platform](https://www.libraryjournal.com/?detailStory=by-david-weinberger)." *Library Journal*. 4 September 2012.
