@@ -163,10 +163,13 @@ ebook freely available through library catalog): Introduction + Chapters 1, 2, a
 
 ## 4/29 - The Book
 ** Digital Ethnography Assignment Due**
-* Borsuk, Amaranth. *The Book*. Cambridge, MA: MIT Press, 2018. (PDF)
-* Howsam, Leslie. "The Study of Book History." In *The Cambridge Companion to the History of the Book*, Ed. Leslie Howsam. Cambridge, UK: Cambridge University Press, 2015: 1-16. (PDF)
-* Kirschenbaum, Matthew G. *Mechanisms: New Media and the Forensic Imagination*. Cambridge, MA: MIT Press, 2012. (Selections in PDF)
-* Kirschenbaum, Matthew G."[Books After the Death of the Book](http://www.publicbooks.org/books-after-the-death-of-the-book/)." *Public Books* 31 March 2017. 
+* Kirschenbaum, Matthew. "Bibliologistics: The Nature of Books Now, or A Memorable Fancy." _Post45_. 8 April 2020. http://post45.org/2020/04/bibliologistics-the-nature-of-books-now-or-a-memorable-fancy/
+
+* Price, Leah. "Dead Again." _The New York Times_. 10 August 2012. https://www.nytimes.com/2012/08/12/books/review/the-death-of-the-book-through-the-ages.html
+
+* Borsuk, Amaranth. _The Book_. Cambridge, Mass.: MIT Press, 2018. (read "The Book as Interface")
+
+Bonus: Dixon, Patrick. "Future of books and publishing - my visit to book factory - watch Futurist book being printed." _YouTube_. 22 May 2019. https://www.youtube.com/watch?v=dc4dGcLjOJ4
 
 ## 5/6 - Publishing Systems
 * Siemens, Ray, Meagan Timney, Cara Leitch, Corina Koolen, and Alex Garnett, with the ETCL, INKE, and PKP Research Groups. "Toward Modeling the Social Edition: An Approach to Understanding the Electronic Scholarly Edition in the Context of New and Emerging Social Media," with Meagan Timney, Cara Leitch, Corina Koolen, and Alex Garnett, and with the ETCL, INKE, and PKP Research Groups. Literary and Linguistic Computing 27.4 (2012): 445-461. (PDF)
