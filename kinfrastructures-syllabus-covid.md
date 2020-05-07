@@ -161,8 +161,7 @@ ebook freely available through library catalog): Introduction + Chapters 1, 2, a
 * Nelson, Michael L. "[Web Archives at the Nexus of Good Fakes and Flawed Originals](https://vimeo.com/330858203).” *Vimeo*. 16 April 2019.
 * Waters, Donald. "Preserving the Knowledge Commons." In Hess, Charlotte, and Elinor Ostrom. *Understanding Knowledge As a Commons: From Theory to Practice*. Cambridge, Mass: MIT Press, 2011. (ebook freely available through library catalogue): pp. 145-168.
 
-## 4/29 - The Book
-** Digital Ethnography Assignment Due**
+## 4/29 - The Book (Visitor: Johnathan Thayer, Queens College)
 * Kirschenbaum, Matthew. "Bibliologistics: The Nature of Books Now, or A Memorable Fancy." _Post45_. 8 April 2020. http://post45.org/2020/04/bibliologistics-the-nature-of-books-now-or-a-memorable-fancy/
 
 * Price, Leah. "Dead Again." _The New York Times_. 10 August 2012. https://www.nytimes.com/2012/08/12/books/review/the-death-of-the-book-through-the-ages.html
@@ -171,28 +170,28 @@ ebook freely available through library catalog): Introduction + Chapters 1, 2, a
 
 Bonus: Dixon, Patrick. "Future of books and publishing - my visit to book factory - watch Futurist book being printed." _YouTube_. 22 May 2019. https://www.youtube.com/watch?v=dc4dGcLjOJ4
 
-## 5/6 - Publishing Systems
-* Siemens, Ray, Meagan Timney, Cara Leitch, Corina Koolen, and Alex Garnett, with the ETCL, INKE, and PKP Research Groups. "Toward Modeling the Social Edition: An Approach to Understanding the Electronic Scholarly Edition in the Context of New and Emerging Social Media," with Meagan Timney, Cara Leitch, Corina Koolen, and Alex Garnett, and with the ETCL, INKE, and PKP Research Groups. Literary and Linguistic Computing 27.4 (2012): 445-461. (PDF)
-* Fitzpatrick, Kathleen. *Planned Obsolescence: Publishing, Technology, and the Future of the Academy*. New York: New York University Press, 2011. (selections in PDF)
-* Suber, Peter. "Creating an Intellectual Commons through Open Access." In Hess, Charlotte, and Elinor Ostrom. *Understanding Knowledge As a Commons: From Theory to Practice*. Cambridge, Mass: MIT Press, 2011. (ebook freely available through library catalogue): pp. 171-208.
-* [Manifold](http://manifoldapp.org)
-* [CUNY Academic Commons](http://commons.gc.cuny.edu) 
-* [Humanities Commons](https://hcommons.org/)
+## 5/6 - CUNY Distance Learning Archive (Visitor: Ed Summers, Maryland Institute for Technology in the Humanities, Documenting the Now)
+* work together to describe and process the CDLA materials we have gathered so far
 
-## METHODS
-## 5/13 - Searching
-* Noble, Safiya U. Algorithms of Oppression: How Search Engines Reinforce Racism. New York: New York University Press, 2018. (Selections in PDF)
-* Seaver, Nick. "[Knowing Algorithms](https://digitalsts.net/wp-content/uploads/2019/11/26_digitalSTS_Knowing-Algorithms.pdf)." In *Digitalsts: A Field Guide for Science & Technology Studies*, Ed. Janet Vertesi and David Ribes. Princeton, NJ: Princeton University Press, 2019.
-* Seaver, Nick. "Captivating algorithms: Recommender systems as traps." *Journal of Material Culture*, 24(4) (2019), 421–436. (PDF)
 
-## 5/20 - Teaching
-**Collective Intervention and Final Reflections Due/Final Discussions**
-* Freire, Paulo. *Pedagogy of the Oppressed.* New York: Bloomsbury Academic, 2018. Print. (Selections in PDF)
-* Shor, Ira. *Critical Teaching and Everyday Life*. Chicago: The University of Chicago Press, 2013. Print. (Selections in PDF)
-* hooks, bell. *Teaching to Transgress: Education As the Practice of Freedom*. New York : Routledge, 2017. (Selections in PDF)
+## 5/13 - CUNY Distance Learning Archive (Visitor: Jim McGrath, Brown University, Our Marathon Project)
+* Freelon, Deen, McIlwain, Charlton D., and Clark, Meredith D. **Beyond the Hashtags.* Center For Media & Social Impact: 2016. https://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf
 
+* Our Marathon https://marathon.library.northeastern.edu/
+
+(a few other readings TBA)
+
+5/20 - Wrap Up
+*Final Reflections Due*
+Please write a 1-3 page reflection on the semester and on any aspect of our course. Some ideas and possibilities:
+* Since our CDLA project asks students to submit narratives to the archive, write a narrative about your experiences this semester that you might be able to submit to the archive
+* Write about your experience in the course. What worked for you, what didn't? How did you experience the move to distance learning?
+* Reflect on the course that might have been, and make suggestions for the next go-around -- what readings and topics were you hoping to cover that were moved aside once COVID-19 hit? What readings moved you and most stimulated your thinking?
+* How do you see the concept of either "knowledge infrastructures" or "infrastructural thinking" offering insights into your future work? How might you incorporate these concepts into your ongoing work?
+* Don't write a paper, but instead to do something creative and/or collaborative.
+* Do nothing. If it's too much to write a paper or even to think very much right now, take some well-deserved rest.
 
 # Credits
-In its structure (and, in the case of the blog post assignment, occasionally its language), this syllabus takes direct inspiration from Luke Waltzer's Spring 2020 course on [Critical Infrastructure Studies](https://criticaledtechsp20.commons.gc.cuny.edu/) at the CUNY Graduate Center. \#citepedagogy
+In its structure (and, in the case of the blog post assignment, occasionally its language), this syllabus takes direct inspiration from Luke Waltzer's Spring 2020 course on [Critical Educational Technology](https://criticaledtechsp20.commons.gc.cuny.edu/) at the CUNY Graduate Center. \#citepedagogy
 
 
