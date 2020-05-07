@@ -1,6 +1,6 @@
 # ENGL 89500: Knowledge Infrastructures
 
-**NOTE: This is a post-COVID-19 syllabus. [Click here for the original syllabus](https://kinfrastructures.commons.gc.cuny.edu/pre-covid-19-syllabus/).**
+**NOTE: This is a post-COVID-19 syllabus that has been altered to accommodate the circumstances of the COVID-19 pandemic. [Click here for the original syllabus](https://kinfrastructures.commons.gc.cuny.edu/pre-covid-19-syllabus/).**
 
 CUNY Graduate Center * Wednesdays 4:15PM-6:15PM * Room 3305 * 2/4 credits
 
@@ -181,7 +181,7 @@ Bonus: Dixon, Patrick. "Future of books and publishing - my visit to book factor
 
 (a few other readings TBA)
 
-5/20 - Wrap Up
+## 5/20 - Wrap Up and Reflection
 *Final Reflections Due*
 Please write a 1-3 page reflection on the semester and on any aspect of our course. Some ideas and possibilities:
 * Since our CDLA project asks students to submit narratives to the archive, write a narrative about your experiences this semester that you might be able to submit to the archive
