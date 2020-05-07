@@ -175,17 +175,21 @@ Bonus: Dixon, Patrick. "Future of books and publishing - my visit to book factor
 
 
 ## 5/13 - CUNY Distance Learning Archive (Visitor: Jim McGrath, Brown University, Our Marathon Project)
+Readings:
 * Freelon, Deen, McIlwain, Charlton D., and Clark, Meredith D. **Beyond the Hashtags.* Center For Media & Social Impact: 2016. https://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf
 
 * Our Marathon https://marathon.library.northeastern.edu/
 
 (a few other readings TBA)
 
+Work:
+* Collaboratively create a google doc that offers a basic description of the archive, the materials we've collected, and their locations. Broad strokes are fine for now, and we will continue to fill it in.
+
 ##  5/20 -- Wrap Up and Reflection
 
 *Final Reflections Due*
 
-Please write a 1-3 page reflection on the semester and on any aspect of our course. Some ideas and possibilities:
+Please write a 1-2 page reflection on the semester and on any aspect of our course. Some ideas and possibilities:
 
 * Since our CDLA project asks students to submit narratives to the archive, write a narrative about your experiences this semester that you might be able to submit to the archive
 * Write about your experience in the course. What worked for you, what didn't? How did you experience the move to distance learning?
