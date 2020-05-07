@@ -2,7 +2,7 @@
 
 ** NOTE: This syllabus has been altered to accommodate the circumstances of the COVID-19 pandemic. [Click here for the original syllabus](https://kinfrastructures.commons.gc.cuny.edu/pre-covid-19-syllabus/). **
 
-CUNY Graduate Center * Wednesdays 4:15PM-6:15PM * Room 3305 * 2/4 credits
+CUNY Graduate Center | Wednesdays 4:15PM-6:15PM | Room 3305 | 2/4 credits
 
 Course Website: https://kinfrastructures.commons.gc.cuny.edu/ or http://cuny.is/kinfrastructures
 
