@@ -183,7 +183,9 @@ Bonus: Dixon, Patrick. "Future of books and publishing - my visit to book factor
 
 ## 5/20 - Wrap Up and Reflection
 *Final Reflections Due*
+
 Please write a 1-3 page reflection on the semester and on any aspect of our course. Some ideas and possibilities:
+
 * Since our CDLA project asks students to submit narratives to the archive, write a narrative about your experiences this semester that you might be able to submit to the archive
 * Write about your experience in the course. What worked for you, what didn't? How did you experience the move to distance learning?
 * Reflect on the course that might have been, and make suggestions for the next go-around -- what readings and topics were you hoping to cover that were moved aside once COVID-19 hit? What readings moved you and most stimulated your thinking?
