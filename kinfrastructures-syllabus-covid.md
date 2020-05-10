@@ -176,7 +176,7 @@ Bonus: Dixon, Patrick. "Future of books and publishing - my visit to book factor
 
 ## 5/13 - CUNY Distance Learning Archive (Visitor: Jim McGrath, Brown University, Our Marathon Project)
 Readings:
-* Freelon, Deen, McIlwain, Charlton D., and Clark, Meredith D. *Beyond the Hashtags.* Center For Media & Social Impact: 2016. https://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf
+* Freelon, Deen, McIlwain, Charlton D., and Clark, Meredith D. *Beyond the Hashtags*. Center For Media & Social Impact: 2016. https://cmsimpact.org/wp-content/uploads/2016/03/beyond_the_hashtags_2016.pdf
 * McGrath,	Jim	and	Alicia	Peaker.	“[Our Marathon: The Role of Graduate Student and Library Labor in Making The Boston Bombing Digital Archive](https://hcommons.org/deposits/item/hc:18569/).” *Digital Humanities,	
 Libraries, and	Partnerships: A Critical Examination of Labor, Networks, and Community*.	Eds. Robin Kear and Kate Joranson. Oxford: Chandos	Publishing,	2018. 
 * [Ethics Statement](https://www.schlesinger-metooproject-radcliffe.org/ethics-statement) on the [Schlesinger Library's #MeToo collection](schlesinger-metooproject-radcliffe.org) (see also the [Ethics Bibliography](https://www.schlesinger-metooproject-radcliffe.org/ethics-bibliography))
